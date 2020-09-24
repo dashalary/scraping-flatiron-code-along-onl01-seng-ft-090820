@@ -25,3 +25,4 @@ def get_page
 #       course.description = post.css("p").text
 #     end
   end
+end
