@@ -16,17 +16,4 @@ attr_accessor :title, :schedule, :description
     @@all.clear
   end
  
-
-
-
-
-
-
-
-
-
-
-
-
-
 end
