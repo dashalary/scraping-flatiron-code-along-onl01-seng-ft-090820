@@ -22,7 +22,5 @@ def get_page
 end
   
   
-  
-  
-  
 end
+Scraper.new.get_page
