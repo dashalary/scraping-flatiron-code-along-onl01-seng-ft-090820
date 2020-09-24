@@ -39,3 +39,4 @@ def make_courses
     course.description = post.css("p").text
   end
 end
+end
