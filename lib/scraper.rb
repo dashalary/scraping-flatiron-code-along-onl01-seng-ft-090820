@@ -22,7 +22,7 @@ def get_page
 end
   
   def get_courses
-    
+    doc.css(".post").first.css("h2").text
   end
   
 end
